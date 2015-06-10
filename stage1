@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Stage 1 Notes</title>
+		<link rel="stylesheet" type="text/css" href="stage1.css">
+	</head>
+
+	<body>
+		<h1 class="title">Stage 1 Notes</h1>
+		<div>
+			<h2 class="content">Work Session 1</h2>
+			<div class="s1note">
+				<b>First part of work session 1 is a review of stage 0 content. Therefore no additional notes recorded.</b>
+			</div>
+			<div class="s1note">
+				<p><b>Second part of work session 1 introduces few things.</b></p>
+				<p><span class="important">HTML is a tree-like structure</span>. In a page, contents are grouped into similar parts, for example a stage 1 content can be divided into work session 1 and 2, and each work session can also break into few parts. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4137489485/e-2771378561/m-2771378562" style="color:white">link</a></p>
+				<p>Simple CSS code like font size, borded size, etc. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4137489485/e-2771378564/m-2771378565" style="color:white">link</a></p>
+				<p>HTML, CSS, DOM </p>
+				<p><span class="important">Programmers see content in HTML as boxes</span>. Inside a large box, is made up of few smaller boxes, and so on. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4137489485/e-2608808598/m-2599508886" style="color:white">link</a></p>
+			</div>
+		</div>
+		<div>
+			<h2 class="content">Work Session 2</h2>
+			<div class="s2note">
+				<p><b>Work session 2 is about the more complicated part of CSS than work session 1.</b></p>
+				<p>The method to link css file to HTML using 'link' tags. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4131369051/e-3614428682/m-2603798584" style="color:white">link</a></p>
+				<p><span class="important">The CSS rules: When defines 'head officer' of a group, all the 'workers' under the group will too be defined.</span><a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4131369051/m-2771378568" style="color:white">link</a></p>
+				<p>Learn to add color into HTML. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4131369051/e-2663568566/m-2616578593" style="color:white">link</a> </p>
+				<p>The use of span, div, id, class. Span is inline tag which allows users to add anything to the content between span tag without making the content a block. Div is similar but making the contents to become a block, therefore easier to manage. ID is used to define one unique part of content that allowed to be styled in CSS. The same function for class, but class is much useful because it allows us to define as many contents as we want as a group. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4131369051/m-4289099604" style="color:white">link</a> </p>
+				<p>The last part is about the box and margin. We learn to position box to make a website look nicer and neater. <a href="https://www.udacity.com/course/viewer#!/c-nd000/l-4131369051/e-2771378569/m-2792478544" style="color:white">link</a> </p>
+			</div>
+		</div>
+		<div>
+		<h3 class="content">Notes:</h3>
+		<div class="note">
+			<p><a href="http://validator.w3.org/#validate_by_input" style="color:white">Link to verify HTML</a></p>
+			<p><a href ="http://jigsaw.w3.org/css-validator/#validate_by_input" style="color:white">Link to verify CSS</a></p>
+		</div>
+		</div>
+		<p style="text-align:right;color:white">Created at 2015/06/10</p>
+
+		<br><br>
+		<p>
+		<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    	<img style="border:0;width:88px;height:31px;"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" /></a>
+		</p>    
